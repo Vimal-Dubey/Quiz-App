@@ -1,0 +1,12 @@
+@import './vars.scss';
+body{
+    font-family: monospace;
+    background:-webkit-linear-gradient(90deg, rgba(187, 147, 100, 1) 0%, rgba(230, 217, 174, 1) 50%, rgba(147, 173, 75, 1) 100%);
+    color: $foreground;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0 30px;
+    height: 100vh;
+}
+
